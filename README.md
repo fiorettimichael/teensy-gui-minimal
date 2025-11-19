@@ -1,7 +1,6 @@
 ## Teensy GUI Minimal
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20mac)
 Provides a simple Python GUI to interact with Teensy hardware.
 
 ---
