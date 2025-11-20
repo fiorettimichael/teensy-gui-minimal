@@ -6,7 +6,7 @@ Provides a simple Python GUI to interact with Teensy hardware.
 ---
 
 ## Prerequisites
-- **Python 3.8+**
+- **Python 3.11+**
 - **Git**
 
 ---
